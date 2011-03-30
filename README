@@ -1,0 +1,4 @@
+fizzbuzz is a basic program that counts from 1 to 100
+on every 3rd number, print fizz
+on every 5th number, print buzz
+on every 15th number, print fizzbuzz
