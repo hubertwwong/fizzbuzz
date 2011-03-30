@@ -1,4 +1,6 @@
 Fizzbuzz::Application.routes.draw do
+  resources :fizzies
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
